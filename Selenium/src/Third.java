@@ -20,6 +20,7 @@ public class Third {
           System.out.println("Page URL is " + driver.getCurrentUrl());
          
           driver.close();
+      driver jjf;
           
          
   
